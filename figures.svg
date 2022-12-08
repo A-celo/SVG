@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="391" height="391" viewBox="-70.5 -70.5 391 391" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <rect x = "10" y = "250" width = "350" height = "100" style = "fill:#DC98AF; stroke-width:10; stroke:#A0677A"/>
+        <circle cx = "50" cy = "250" r = "100" stroke= "#5B5185" stroke-width = "4" fill = "#B2A7E0"/>
+        <ellipse cx = "60" cy = "250" rx = "100" ry = "65" style = "fill:#E7B580; stroke:#B2875A; stroke-width:3"/>
+        <line x1 = "50" y1 = "50" x2="50" y2="400" style = "stroke:#9BD8DC; stroke-width:10; stroke-opacity:0.7;"/>
+        <text x="20" y="180" font-family = "monospace" font-size = "64" style = "fill = #547AA5" > Hello World </text>
+</svg>
